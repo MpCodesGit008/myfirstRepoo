@@ -1,0 +1,27 @@
+name<str> = "Manoj"
+
+
+indexing { 0 ... k }
+first index : 0
+last index : k (4)
+length : 5 (N)
+
+k = N-1
+
+square brackets [] are used for index lookup
+
+name[0] = "M"
+name[1] = "a"
+
+name[2:3] = "an"  XXXXX  "n"  
+
+
+[0  1  2  3  4]
+[M  a  n  o  j]
+
+
+0:4  = 0, 1, 2, 3
+
+2:3 = 2
+
+j:k = j ... k-1
